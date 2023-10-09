@@ -1,0 +1,24 @@
+{
+  "config": {
+    "startingRoom": "room",
+    "scenarioLevel": 1,
+    "apiVersion": 1,
+    "ambientAudio": null,
+    "variables": {},
+    "elements": {
+      "room": {
+        "qr": "a4",
+        "id": "room"
+      },
+      "new_element": {
+        "qr": "a1",
+        "id": "new_element"
+      }
+    },
+    "layout": {
+      "room": {}
+    },
+    "backstory": [],
+    "abilities": []
+  }
+}
